@@ -3,7 +3,7 @@ import PalindromeCheck from "./lib/PalindromeCheck.svelte";
 </script>
 
 <main>
-  <a id="repoLink" href="https://github.com/DeltaHarbinger/prime-checker">
+  <a id="repoLink" href="https://github.com/DeltaHarbinger/palindrome-check">
     <img id="githubImage" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github-logo">
   </a>
   <h3>Palindrome Checker</h3>
